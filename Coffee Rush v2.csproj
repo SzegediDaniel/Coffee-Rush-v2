@@ -10,11 +10,73 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Névtelen.png" />
+    <None Remove="11817218.png" />
+    <None Remove="6843954.png" />
+    <None Remove="7797013.png" />
+    <None Remove="backarrow.png" />
+    <None Remove="Background.png" />
+    <None Remove="Background0.png" />
+    <None Remove="Background1.png" />
+    <None Remove="Background2.png" />
+    <None Remove="Background3.png" />
+    <None Remove="Background4.png" />
+    <None Remove="Background5.png" />
+    <None Remove="background6.jpg" />
+    <None Remove="CoffeMug.png" />
+    <None Remove="CSOKI.png" />
+    <None Remove="DISLIKE.png" />
+    <None Remove="Fejléc.png" />
+    <None Remove="GameOver.png" />
+    <None Remove="GLASS.png" />
+    <None Remove="GOZ.png" />
+    <None Remove="JEG.png" />
+    <None Remove="KARAMELL.png" />
+    <None Remove="KAVEBAB.png" />
+    <None Remove="Kuka.png" />
+    <None Remove="Képernyőkép 2024-04-06 221655.png" />
+    <None Remove="LIKE.png" />
+    <None Remove="MainLogo.png" />
+    <None Remove="MUG.png" />
+    <None Remove="Numero1.png" />
+    <None Remove="Numero2.png" />
+    <None Remove="Numero3.png" />
+    <None Remove="Numero4.png" />
+    <None Remove="sarok.png" />
+    <None Remove="Serve.png" />
+    <None Remove="TEA.png" />
+    <None Remove="TEJ.png" />
+    <None Remove="VIZ.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Névtelen.png" />
+    <Resource Include="11817218.png" />
+    <Resource Include="6843954.png" />
+    <Resource Include="7797013.png" />
+    <Resource Include="background6.jpg" />
+    <Resource Include="CoffeMug.png" />
+    <Resource Include="CSOKI.png" />
+    <Resource Include="DISLIKE.png" />
+    <Resource Include="Fejléc.png" />
+    <Resource Include="GameOver.png" />
+    <Resource Include="GLASS.png" />
+    <Resource Include="GOZ.png" />
+    <Resource Include="JEG.png" />
+    <Resource Include="KARAMELL.png" />
+    <Resource Include="KAVEBAB.png" />
+    <Resource Include="Kuka.png" />
+    <Resource Include="Képernyőkép 2024-04-06 221655.png" />
+    <Resource Include="LIKE.png" />
+    <Resource Include="MainLogo.png" />
+    <Resource Include="MUG.png" />
+    <Resource Include="Numero1.png" />
+    <Resource Include="Numero2.png" />
+    <Resource Include="Numero3.png" />
+    <Resource Include="Numero4.png" />
+    <Resource Include="sarok.png" />
+    <Resource Include="Serve.png" />
+    <Resource Include="TEA.png" />
+    <Resource Include="TEJ.png" />
+    <Resource Include="VIZ.png" />
   </ItemGroup>
 
 </Project>

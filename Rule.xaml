@@ -1,0 +1,17 @@
+﻿<Window x:Class="Coffee_Rush_v2.Rule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coffee_Rush_v2"
+        mc:Ignorable="d"
+        Title="Coffee Rush ~ Rule" Height="720" Width="1280" MinHeight="720" MinWidth="1280" Background="White" WindowStartupLocation="CenterScreen" HorizontalAlignment="Center" VerticalAlignment="Center" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="l_con" Grid.Column="0" VerticalContentAlignment="Center" Margin="40,40,40,40" Background="{x:Null}" FontSize="14"></Label>
+        <Button Content="Vissza" Height="110" Width="124" Click="Button_Click" Grid.Column="1" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="24" FontFamily="Segoe UI Variable Text" FontWeight="Bold"/>
+    </Grid>
+</Window>
